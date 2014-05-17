@@ -6,7 +6,6 @@ categories:
   - General Posts
 ---
 
-![](/_posts/peacock.jpg)
 This is the fourth and last post of the evening.  I guess now would be good time for me to brush up on my PHP skills, as I've reached my limit for doing things _without_ that knowledge. 
 
 <h3>A List</h3>
