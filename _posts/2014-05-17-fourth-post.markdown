@@ -15,3 +15,5 @@ This is the fourth and last post of the evening.  I guess now would be good time
 </ul>
 
 <img src="http://imageshack.com/a/img843/8462/cjvh.jpg"/>
+
+<a href="http://drmasonsclasses.com">Read More</a>
